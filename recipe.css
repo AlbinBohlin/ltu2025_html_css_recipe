@@ -1,0 +1,42 @@
+
+h1{
+    color: gray;
+}
+
+
+
+aside {
+  width: 40%;
+  padding-left: 1em;
+  padding-bottom: 100%;
+  margin-left: auto;
+  float: right;
+   box-shadow: inset 5px 0 5px -5px #29627e; 
+   font-style: italic; 
+  color: #29627e;
+  ul{
+    line-height: 3em;
+  }
+img{border: 30px;
+    padding: 2em;
+float: right;
+}  
+}
+
+aside > p {
+  margin: 0.5rem;
+}
+
+ingredients{
+    line-height-step: 20px;
+}
+
+h3{
+    color: green;
+    margin-top:  1em;
+}
+section.te{
+width: 55%;
+    p{margin: 10px;}
+
+    }
