@@ -3,29 +3,36 @@ h1{
     color: gray;
 }
 
-
-
+body{background:
+    linear-gradient(217deg, rgb(140 125 125 / 80%), rgb(255 0 0 / 0%) 70.71%),
+    linear-gradient(127deg, rgb(0 255 0 / 80%), rgb(0 255 0 / 0%) 70.71%),
+    linear-gradient(336deg, rgb(0 0 255 / 80%), rgb(0 0 255 / 0%) 70.71%);}
+   
 aside {
   width: 40%;
   padding-left: 1em;
   padding-bottom: 100%;
   margin-left: auto;
   float: right;
-   box-shadow: inset 5px 0 5px -5px #29627e; 
+   box-shadow: inset 5px 0 5px -5px #172329; 
    font-style: italic; 
   color: #29627e;
   ul{
     line-height: 3em;
   }
 img{border: 30px;
-    padding: 2em;
+    margin-right: 20vw;
+    
 float: right;
 }  
 }
 
+section.time{
+    h2{margin-bottom:0px ;}
+    ul{line-height: 2em;}
 aside > p {
   margin: 0.5rem;
-}
+}}
 
 ingredients{
     line-height-step: 20px;
@@ -36,6 +43,7 @@ h3{
     margin-top:  1em;
 }
 section.te{
+    
 width: 55%;
     p{margin: 10px;}
 
